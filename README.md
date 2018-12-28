@@ -1,4 +1,4 @@
-# SimpleObservablePattern
+# Simple Observable Pattern Implementation
 
 tsc .\observable.pattern.ts
 
